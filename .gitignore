@@ -1,0 +1,17 @@
+pycache/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+.venv/
+env/
+venv/
+
+.streamlit/
+
+.env
+
+Thumbs.db
+
+*.log
