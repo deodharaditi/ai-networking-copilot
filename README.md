@@ -26,11 +26,17 @@ This tool combines deterministic heuristics with LLM-powered language generation
 
 User Input (Streamlit)
         ↓
-Orchestrator
+   Orchestrator
         ↓
-ingest → classify → score → compose → store
+ ┌───────────────┐
+ | ingest        |
+ | classify      |
+ | score         |
+ | compose (LLM) |
+ | store         |
+ └───────────────┘
         ↓
-JSON CRM Output
+   JSON CRM Output
 
 ### Design Principles
 
