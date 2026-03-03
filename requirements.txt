@@ -2,4 +2,5 @@ streamlit
 pydantic
 requests
 pandas
-openai
+anthropic
+python-dotenv
