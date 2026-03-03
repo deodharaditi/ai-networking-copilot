@@ -1,0 +1,96 @@
+[
+  {
+    "id": "2ac5ecea-95ec-45df-9b79-826c860803a9",
+    "name": "Priya Nair",
+    "role_company": "Technical Recruiter @ Databricks",
+    "context": "Hiring ML infra and platform engineers",
+    "linkedin_url": "https://linkedin.com/in/priya-nair",
+    "persona": "recruiter",
+    "priority_score": 6,
+    "connection_note": "Hi Priya! I'm passionate about ML infrastructure and have been following Databricks' innovations in the space. I'd love to connect and learn more about the platform engineering work your team is doing. Looking forward to staying in touch!",
+    "follow_up_dm": "Thanks for connecting, Priya! I'm really interested in the ML infrastructure and platform engineering roles at Databricks. I have experience building scalable ML systems and optimizing data pipelines. I'd love to learn more about what your team is working on and explore how my background might align with current opportunities. Would you be open to a brief chat about the roles you're hiring for?",
+    "reasoning_bullets": [
+      "Direct access to recruiter actively hiring for ML infrastructure roles",
+      "Databricks is a leading player in ML/data platform space with strong growth",
+      "Priority score of 6 indicates solid opportunity worth pursuing",
+      "Warm tone appropriate for building genuine recruiter relationship"
+    ],
+    "status": "new",
+    "created_at": "2026-03-03T21:08:24.304842+00:00"
+  },
+  {
+    "id": "174e5269-98ac-4dc5-8264-90c39f02a1d1",
+    "name": "Sarah Okonkwo",
+    "role_company": "Founder @ Lumen AI",
+    "context": "Building observability tools for multi-agent systems",
+    "linkedin_url": "https://linkedin.com/in/sarah-okonkwo",
+    "persona": "founder",
+    "priority_score": 5,
+    "connection_note": "Hi Sarah! I'm impressed by what you're building with Lumen AI\u2014observability for multi-agent systems is such a critical gap right now. As someone deeply interested in the AI infrastructure space, I'd love to connect and learn from your journey. Looking forward to exchanging ideas!",
+    "follow_up_dm": "Thanks for connecting, Sarah! I've been following the evolution of multi-agent systems and the observability challenges are fascinating. What you're tackling at Lumen AI feels like exactly what the space needs as these systems scale.\n\nI'm curious\u2014what patterns are you seeing emerge as the biggest pain points for teams deploying agent systems? Would love to hear your perspective and share some thoughts from my side as well.",
+    "reasoning_bullets": [
+      "Founder of Lumen AI working on cutting-edge observability infrastructure for emerging multi-agent AI systems",
+      "High-priority contact (score: 5) in rapidly growing AI tooling space with strong network potential",
+      "Opportunity to learn from someone solving complex technical challenges at the intersection of AI and DevOps",
+      "Potential for collaboration or knowledge exchange in the AI infrastructure ecosystem"
+    ],
+    "status": "new",
+    "created_at": "2026-03-03T21:08:43.049362+00:00"
+  },
+  {
+    "id": "5c6dd4f9-60dc-4c5e-87e4-afe7232efa67",
+    "name": "Aashish Parikh",
+    "role_company": "CTO @ Azentic AI",
+    "context": "Building AI-native hiring and workflow tools",
+    "linkedin_url": "https://linkedin.com/in/aashish-parikh",
+    "persona": "community",
+    "priority_score": 2,
+    "connection_note": "Hi Aashish! I'm really impressed by what you're building at Azentic AI\u2014AI-native hiring tools are such a timely solution. I'm passionate about the intersection of AI and talent, and would love to connect and learn from your journey. Looking forward to exchanging ideas!",
+    "follow_up_dm": "Thanks for connecting, Aashish! I've been following the evolution of AI in hiring, and Azentic's approach to building native workflows really stands out. I'm curious about how you're thinking about the balance between automation and human judgment in the hiring process. Would love to hear your perspective\u2014and happy to share what I'm seeing in the community space as well. Any chance you're open to a quick chat?",
+    "reasoning_bullets": [
+      "Leading innovation in AI-native hiring\u2014a rapidly evolving space with strong community interest",
+      "CTO perspective offers valuable technical insights on building AI workflow tools",
+      "Opportunity to exchange ideas on AI adoption challenges and best practices",
+      "Potential for collaboration or knowledge-sharing within the AI builder community"
+    ],
+    "status": "new",
+    "created_at": "2026-03-03T21:08:16.840194+00:00"
+  },
+  {
+    "id": "8b93523e-c486-401c-838d-0979354608a3",
+    "name": "Jordan Lee",
+    "role_company": "ML Engineer @ Modal Labs",
+    "context": "Working on serverless GPU infra for LLM workloads",
+    "linkedin_url": "https://linkedin.com/in/jordan-lee",
+    "persona": "engineer",
+    "priority_score": 2,
+    "connection_note": "Hi Jordan! I've been exploring serverless GPU infrastructure for LLM projects and came across your work at Modal Labs. Really impressed by what you're building in this space. Would love to connect and learn from your experience with scaling ML workloads efficiently!",
+    "follow_up_dm": "Thanks for connecting, Jordan! I'm particularly curious about the challenges you've encountered with serverless GPU infra for LLMs. At my end, I've been wrestling with cold start times and cost optimization for inference workloads.\n\nWould love to hear your perspective on where you see this space heading\u2014especially around multi-GPU orchestration and spot instance strategies. Always great to chat with folks pushing the boundaries of ML infrastructure. Let me know if you're up for exchanging notes sometime!",
+    "reasoning_bullets": [
+      "Direct expertise in cutting-edge ML infrastructure (serverless GPU) that's highly relevant for modern LLM deployment",
+      "Modal Labs is a key player in the serverless compute space\u2014valuable insights into production ML systems",
+      "Engineer-to-engineer connection enables technical depth in discussions about scaling and optimization challenges"
+    ],
+    "status": "new",
+    "created_at": "2026-03-03T21:08:33.622051+00:00"
+  },
+  {
+    "id": "ff2e9b82-a4e0-4db3-9f73-6f1f9eead44b",
+    "name": "Marcus Webb",
+    "role_company": "Senior Recruiter @ Cohere",
+    "context": "Sourcing for applied ML and AI platform roles",
+    "linkedin_url": "https://linkedin.com/in/marcus-webb",
+    "persona": "recruiter",
+    "priority_score": 2,
+    "connection_note": "Hi Marcus! I'm impressed by your work sourcing ML/AI talent at Cohere. I'm actively working in applied ML and would love to connect and learn more about the innovative work happening at Cohere. Looking forward to exchanging insights on the AI space!",
+    "follow_up_dm": "Thanks for connecting, Marcus! I've been following Cohere's progress in the LLM space and I'm really excited about what you're building. I'm currently working on applied ML projects and would love to learn more about the types of roles you're hiring for on the AI platform team. I'm particularly interested in how Cohere approaches productionizing large-scale ML systems. Would you be open to a brief chat about opportunities and the team culture at Cohere?",
+    "reasoning_bullets": [
+      "Direct access to roles at a leading AI company (Cohere) through their senior recruiter",
+      "Marcus specializes in applied ML and AI platform positions\u2014exactly aligned with ML engineering career paths",
+      "Priority score of 2 suggests moderate urgency; warm tone helps build genuine relationship for potential opportunities",
+      "Recruiters value candidates who proactively reach out and show genuine interest in the company's mission"
+    ],
+    "status": "new",
+    "created_at": "2026-03-03T21:08:52.667800+00:00"
+  }
+]

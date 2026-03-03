@@ -2,3 +2,4 @@ streamlit
 pydantic
 requests
 pandas
+openai

@@ -1,0 +1,5 @@
+Aashish Parikh | CTO @ Azentic AI | Building AI-native hiring and workflow tools | https://linkedin.com/in/aashish-parikh
+Priya Nair | Technical Recruiter @ Databricks | Hiring ML infra and platform engineers | https://linkedin.com/in/priya-nair
+Jordan Lee | ML Engineer @ Modal Labs | Working on serverless GPU infra for LLM workloads | https://linkedin.com/in/jordan-lee
+Sarah Okonkwo | Founder @ Lumen AI | Building observability tools for multi-agent systems | https://linkedin.com/in/sarah-okonkwo
+Marcus Webb | Senior Recruiter @ Cohere | Sourcing for applied ML and AI platform roles | https://linkedin.com/in/marcus-webb
